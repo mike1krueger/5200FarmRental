@@ -25,5 +25,8 @@ Move 5200FarmRental project to github repository
  git merge updateNotes
  git push origin master
  
+ git remote add origin https://github.com/mike1krueger/BarnRental.git
+origin master
+
   
  
