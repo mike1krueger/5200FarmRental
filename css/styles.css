@@ -235,7 +235,11 @@ header {
     color: #fff;
     width: 100%;
     background-color: #c9c9c9;
+<<<<<<< HEAD
     background-image: url('../images/pasture_upto_barn.JPG');
+=======
+    background-image: url('../images/bankBarnpasture_upto_barn.JPG');
+>>>>>>> refactor to change use from house to farm rental
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
